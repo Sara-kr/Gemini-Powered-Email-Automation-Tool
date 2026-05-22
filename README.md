@@ -332,15 +332,11 @@ The React app starts at `http://localhost:3000`.
 
 ---
 
-## Contributing
+## Contribution
 
-Contributions are welcome! Please follow these steps:
+Frontend : Venkataraman K R | GitHub: https://github.com/VenkataramanaKR | LinkedIn: https://www.linkedin.com/in/venkataramana-k-r-a4a013252/
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add: your feature description"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
+Backend : Saravanan K R | GitHub: https://github.com/Sara-kr | LinkedIn: https://www.linkedin.com/in/saravanan-k-r/
 
 ---
 
