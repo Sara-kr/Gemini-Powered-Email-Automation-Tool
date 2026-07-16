@@ -3,6 +3,21 @@
 > An AI-powered email automation system built with **Spring Boot**, **React**, **Google Gemini API**, and a **Chrome Extension** — enabling intelligent, context-aware email drafting directly inside Gmail.
 
 ---
+## Screenshots
+
+### Chrome Extension — Before AI Reply Generated
+![Before Generated](screenshots/Before%20Generated.png)
+
+### Chrome Extension — After AI Reply Generated
+![After Generated](screenshots/After%20Generated.png)
+
+### React App — Email Input View
+![React Generated](screenshots/React%20generated.png)
+
+### React App — After Reply Generated
+![React After Generated](screenshots/React%20After%20Generated.png)
+
+---
 
 ## 📌 Table of Contents
 
@@ -316,21 +331,6 @@ The React app starts at `http://localhost:3000`.
 
 ---
 
-## Screenshots
-
-### Chrome Extension — Before AI Reply Generated
-![Before Generated](screenshots/Before%20Generated.png)
-
-### Chrome Extension — After AI Reply Generated
-![After Generated](screenshots/After%20Generated.png)
-
-### React App — Email Input View
-![React Generated](screenshots/React%20generated.png)
-
-### React App — After Reply Generated
-![React After Generated](screenshots/React%20After%20Generated.png)
-
----
 
 ## Contribution
 
