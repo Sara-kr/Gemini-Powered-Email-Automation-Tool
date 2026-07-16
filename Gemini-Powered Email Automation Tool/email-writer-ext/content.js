@@ -42,6 +42,10 @@ function findComposeToolbar() {
         return null;
     }
 }
+function clearComposeBox(composeBox) {
+    composeBox.innerHTML = '';
+    composeBox.textContent = '';
+}
 
 function injectButton() {
     const existingButton = document.querySelector('.ai-reply-button');
